@@ -93,7 +93,7 @@ recognition.addEventListener("result", (e) => {
         p.innerText = "opening facebook";
         texts.appendChild(p);
         console.log("opening facebook");
-        window.open("https://www.facbook.com/");
+        window.open("https://www.facebook.com/");
       }
       
     p = document.createElement("p");
